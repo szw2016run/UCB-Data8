@@ -1,4 +1,4 @@
-This is the learning material for UCB DS8 2019Sum.
+This is the learning material for UCB Data8 2019Sum.
 
 Some solutions by myself.
 
